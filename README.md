@@ -1,5 +1,6 @@
 # uber_demo
-Set up MongoDB, RabbitMQ configuration of Docker under Linux System.  
+
+Environment with MongoDB, RabbitMQ configuration of Docker under Linux System.  
 
 Used Spring Boot, Data REST and Spring Cloud for vehicle deployment on distributed Tomcats.  
 
